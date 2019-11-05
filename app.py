@@ -1,7 +1,6 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import dash_gif_component as Gif
 import base64
 external_stylesheets = ['https://codepen.io/g4b1b13l/pen/VwwrYdL.css']
 
