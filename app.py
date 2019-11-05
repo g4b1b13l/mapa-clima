@@ -10,7 +10,7 @@ server = app.server
 
 
 
-image_filename = 'C://Users//Pessoal//Desktop//Area de trabalho//davi.jpg'  
+image_filename = 'davi.jpg'  
 encoded_image = base64.b64encode(open(image_filename, 'rb').read())   
 app.layout = html. Div([html.Div(children=[
     html.H1(children='Davi noobão!'),
