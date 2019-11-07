@@ -401,6 +401,7 @@ flag_value = 'ligado'
 # ---------------------------------------------------------
 
 app = dash.Dash('[Clima-Energia]')
+server = app.server
 
 encoded_image = gera_encoded_image(dropdown_camadas_do_mapa_infra_value
                                    ,dropdown_camadas_do_mapa_eletrica_value
