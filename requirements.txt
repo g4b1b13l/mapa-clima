@@ -57,6 +57,4 @@ wcwidth==0.1.7
 Werkzeug==0.15.6
 gunicorn==19.9.0
 geopandas
-geog
-shapely
 
