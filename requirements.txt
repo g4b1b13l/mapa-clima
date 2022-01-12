@@ -34,7 +34,7 @@ parso==0.5.1
 pathlib==1.0.1
 pickleshare==0.7.5
 Pillow==6.1.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 plotly==4.1.1
 prompt-toolkit==2.0.9
 psycopg2==2.8.3
